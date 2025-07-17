@@ -1,0 +1,14 @@
+/*responsie mobile divice*/
+@media screen and (max-width:576px) {
+   .navbar, 
+   .nav-links,
+   .teams{
+    flex-direction: column;
+   } 
+   .banner-img{
+    width: 100%;
+   }
+   .image-box{
+    grid-template-columns: repeat(1,250px);
+   }
+}
