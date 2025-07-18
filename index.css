@@ -97,3 +97,72 @@ border-radius: 30px;
     margin-bottom: 50px;*/
 
 }
+/*some facts*/
+.title-s{
+    
+font-size: small;
+    margin: 30px;
+
+}
+.some-facts{background-color: rgb(172, 203, 216);
+    border-radius: 30px;
+    padding: 30px;
+}
+.icons{
+    display: flex;
+    margin: 50px;
+    padding: 0px;
+    justify-content: space-around;
+}
+.icons{
+    padding-bottom: 30px;
+    
+    gap: 20px;
+
+    
+    align-items: center;
+    text-align: center;
+    gap: 0px;
+}
+.ico{
+    border: 1px solid tomato;
+    width: 200px;
+    
+    height: 150px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    padding-top: 10px;
+}
+.sponser{
+   max-width:1300px;
+   background-color: rgb(226, 241, 247);
+   border-radius: 30px;
+    
+    margin: 40px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+}
+.spon-pic{
+padding: 30px;
+display: flex;
+    justify-content: 
+    space-between;
+    
+
+    
+}
+.last-p h6{
+    border-radius: 40px;
+    margin:30px 100px;
+    padding: 20px;
+    align-items: center;
+    text-align: center;
+    background-color: pink;
+    
+}
+    

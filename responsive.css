@@ -11,4 +11,22 @@
    .image-box{
     grid-template-columns: repeat(1,250px);
    }
+   .some-facts{
+      flex-direction: column;
+   }
+   .icons{
+      flex-direction: column;
+      gap: 20px;
+   }
+   .spon-pic{
+      flex-direction: column;
+      margin-left: 100px;
+      gap: 30px;
+   }
+
+
+
+
+
 }
+
